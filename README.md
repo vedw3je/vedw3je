@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ved Waje</h1>
 <h3 align="center">A passionate Coder interested in learning new technologies.</h3>
 
-- 🔭 I’m currently working on **Java project which manages Airlines and Airports**
+- 🔭 I’m currently working on **Buikding Flutter Apps**
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **Django, Python, Flutter**
 
 - 📫 How to reach me **vedwaje@gmail.com**
 
