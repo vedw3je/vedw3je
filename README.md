@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Waje</h1>
 <h3 align="center">A passionate Coder interested in learning new technologies.</h3>
 
-- 🔭 I’m currently working on **Buikding IOS Apps**
+- 🔭 I’m currently working on **Building IOS Apps**
 
 - 🌱 I’m currently learning **Swift**
 
