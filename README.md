@@ -20,7 +20,7 @@
 ### 🤝 Connect with Me
 <p>
   <a href="mailto:wajeved04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vedwaje"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ved-waje"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -52,12 +52,8 @@
 
 ### 🚀 Featured Projects
 - ✈️ **JetLageed : Flight Delay Prediction App** – Built using Flutter + Flask + ML model  
-- 
+  
 
----
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
 
 
