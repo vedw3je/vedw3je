@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Waje</h1>
-<h3 align="center">Final Year Computer Engineering Student | Passionate Mobile App Developer</h3>
+<h3 align="center">Final Year Computer Engineering Student | Mobile App Developer</h3>
 
 <p align="center">
   🚀 I love building cross-platform apps using Flutter and exploring iOS development with SwiftUI.<br/>
