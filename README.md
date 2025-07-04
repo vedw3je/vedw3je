@@ -51,7 +51,7 @@
 ---
 
 ### 🚀 Featured Projects
-- ✈️ **JetLageed : Flight Delay Prediction App** – Built using Flutter + Flask + ML model  
+- ✈️ **JetLagged : Flight Delay Prediction App** – Built using Flutter + Flask + ML model  
   
 
 
