@@ -1,58 +1,152 @@
 <h1 align="center">Hi 👋, I'm Ved Waje</h1>
-<h3 align="center">Final Year Computer Engineering Student | Mobile App Developer</h3>
+
+<h3 align="center">Flutter Developer | Computer Engineering Graduate | Mobile Application Developer</h3>
 
 <p align="center">
-  🚀 I love building cross-platform apps using Flutter and exploring iOS development with SwiftUI.<br/>
-  💡 Always eager to learn new technologies and create impactful projects.
+  🚀 Passionate about building scalable cross-platform mobile applications with Flutter.<br>
+  💡 Interested in AI-powered solutions, healthcare technology, and creating products that solve real-world problems.
 </p>
-
----
-
-### 🔍 About Me
-- 🎓 Final Year B.E. Computer Engineering Student  
-- 🔭 Currently working on **iOS apps using SwiftUI**
-- 📱 Developed several **cross-platform apps using Flutter**
-- 🌱 Actively learning **Swift** and improving my iOS development skills
-- 📫 Reach me at: **wajeved04@gmail.com**
-
----
-
-### 🤝 Connect with Me
-<p>
-  <a href="mailto:wajeved04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ved-waje"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="swift" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedw3je&show_icons=true&theme=tokyonight" alt="vedw3je" />
+  <a href="https://portfolio.vedwaje.workers.dev">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:wajeved04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ved-waje">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- ✈️ **JetLagged : Flight Delay Prediction App** – Built using Flutter + Flask + ML model  
-  
+# 👨‍💻 About Me
+
+- 🎓 B.E. Computer Engineering Graduate
+- 📱 Flutter Developer with experience building production-ready mobile applications
+- 🤖 Passionate about AI, Healthcare Technology, and Mobile App Development
+- 🌱 Constantly learning new technologies and improving my software engineering skills
+- 📫 Reach me at **wajeved04@gmail.com**
+
+---
+
+# 💼 Internship Experience
+
+## 🚀 CareNX Innovations (May 2025 – May 2026)
+**Flutter Developer Intern**
+
+- Developed and maintained healthcare mobile applications
+- Built scalable Flutter features and integrated REST APIs
+- Worked with Firebase, state management, and production deployments
+
+## ✈️ Drona Aviation
+**Flutter Developer Intern**
+
+- Developed features for the PlutoBlocks mobile application
+- Worked on Blockly integration, SQLite database, hardware communication, and UI enhancements
+
+## 💻 AscentTech Solutions
+**Flutter Developer Intern**
+
+- Built responsive cross-platform applications using Flutter
+- Integrated REST APIs and optimized application performance
+
+---
+
+# 🚀 Featured Projects
+
+### ✈️ JetLagged
+AI-powered Flight Delay Prediction application built using **Flutter, Flask, Machine Learning, and Aviation APIs**.
+
+### 🩺 Natalis
+Healthcare application focused on improving maternal healthcare through Flutter and Firebase.
+
+### 💰 Finzenz
+Personal finance application for expense tracking, budgeting, and financial management.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+- Dart
+- Java
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+
+### Mobile Development
+
+- Flutter
+- Android
+
+### Backend & Database
+
+- Firebase
+- Firestore
+- SQLite
+- Flask
+- REST APIs
+
+### AI & Machine Learning
+
+- Scikit-learn
+- Pandas
+- NumPy
+- LightGBM
+- XGBoost
+
+### Tools
+
+- Git
+- GitHub
+- Android Studio
+- VS Code
+- Postman
+- Figma
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedw3je&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedw3je&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedw3je&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:wajeved04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ved-waje">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.vedwaje.workers.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vedw3je">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+> *"Passionate about building mobile applications that create real-world impact."*
 
 
 
