@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ved Waje</h1>
 
-<h3 align="center">Flutter Developer | Computer Engineering Graduate | Mobile Application Developer</h3>
+<h3 align="center">Software Engineer | Computer Engineering Graduate | Flutter Developer</h3>
 
 <p align="center">
   🚀 Passionate about building scalable cross-platform mobile applications with Flutter.<br>
@@ -40,13 +40,13 @@
 - Built scalable Flutter features and integrated REST APIs
 - Worked with Firebase, state management, and production deployments
 
-## ✈️ Drona Aviation
+## ✈️ Drona Aviation ( May 2024 - July 2024)
 **Flutter Developer Intern**
 
 - Developed features for the PlutoBlocks mobile application
 - Worked on Blockly integration, SQLite database, hardware communication, and UI enhancements
 
-## 💻 AscentTech Solutions
+## 💻 AscentTech ( Feb 2025 - July 2025 )
 **Flutter Developer Intern**
 
 - Built responsive cross-platform applications using Flutter
